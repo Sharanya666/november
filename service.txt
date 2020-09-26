@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>service page</title>
+<p>NEAR BY RESTAURANTS</p>
+<ol>
+<li>PARK AND EAT</li>
+<li>ANNAPURNA CANTEEN</li>
+<li>UDIPI</li>
+<li>8293</li>
+</ol>
+</head>
+</html>
